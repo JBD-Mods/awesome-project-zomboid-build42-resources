@@ -1,2 +1,4 @@
-File path should look like: 
-C:\Users\%YourWindowsUsersName%\Zomboid\Workshop\
+# Workshop Folder Path Example
+
+File path should look like:
+C:\Users\%YourWindowsUserName%\Zomboid\Workshop\
