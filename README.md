@@ -26,8 +26,7 @@ This is the foundational knowledge required for modding. These resources explain
 Step-by-step instructions to get you from concept to a working mod.
 
 *   **Official & Community Guides**
-    *   **[Steam Guide: How To Update Your Mod for Build 42](https://steamcommunity.com/sharedfiles/filedetails/?id=3029513359)**: A simple, direct guide on the new folder structure and process for making existing mods compatible with B42.
-    *   **[Steam Guide: B42 - How to Create a Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3032483533)**: A video guide that walks you through the entire process of creating a new mod for Build 42 from scratch.
+    *   **[Steam Guide: How To Update Your Mod for Build 42](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=3391657438)**: A simple, direct guide on the new folder structure and process for making existing mods compatible with B42.
     *   **[The Indie Stone Forums: Tutorials & Resources](https://theindiestone.com/forums/index.php?/forum/72-tutorials-resources/)**: The dedicated section on the official forums for community-written guides.
 
 *   **Video Content**
