@@ -1,6 +1,8 @@
 # General Resources and Guides for Project Zomboid Build 42 Modding
 Tools &amp; Resources for modding project zomboid, build 42
 
+For more indepth resources please check out **[Project Zomboid Modding Guide]((https://github.com/FWolfe/Zomboid-Modding-Guide/tree/master))**
+
 ### **Essential Hubs (Communities & Forums)**
 
 These are the primary places to ask questions, share progress, and collaborate with other modders. Active participation is one of the best ways to learn and stay current.
