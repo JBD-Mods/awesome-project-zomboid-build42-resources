@@ -45,6 +45,7 @@ The software and utilities that will make the process of creating, debugging, an
     *   **Visual Studio Code / IntelliJ IDEA**: Powerful code editors that are highly recommended for writing Lua. Extensions for Lua language support are available.
     *   **[KnoxKit](https://github.com/cursey/KnoxKit-App)**: A user-friendly instance manager for Project Zomboid, helping you manage different game versions, mod collections, and configurations.
     *   **[Project Zomboid Log Analyzer Tool](https://github.com/Calvy/PZ-Log-Analyzer)**: A standalone tool to help read, filter, and analyze Project Zomboid's debug logs, which is invaluable for troubleshooting errors in your mod.
+    *     **[Project Zomboid B42 Map](https://projectzomboidmap.net)**: A free browser-based interactive map of the full Build 42 Knox Country world — every floor of every building, coordinates and street search — used as a reference when planning custom maps, plus a linked database of 5,000+ B42 items.
 
 *   **Mod Management Utilities**
     *   **[Mod Manager: Load Order Sorter](https://steamcommunity.com/sharedfiles/filedetails/?id=3141508738)**: A helpful mod that assists in automatically sorting your mod load order to prevent conflicts.
